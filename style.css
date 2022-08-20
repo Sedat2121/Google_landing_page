@@ -7,6 +7,7 @@
     text-decoration: none;
 }
 
+/* header section */
 .header{
     padding: 15px 15px 0px 15px;
     /* background-color: coral; */
@@ -18,10 +19,6 @@
 }
 .header__right{
 float: right;
-}
-
-.clear{
-    clear: both;
 }
 
 ul{
@@ -69,6 +66,7 @@ ul a:hover{
     box-shadow: rgba(0, 0, 0, 0.15)0px 1px 0px 0px;
 }
 
+/* main  section */
 .main__logo{
     width: 272px;
     height: 95px;
